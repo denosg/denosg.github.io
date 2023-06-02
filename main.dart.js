@@ -37553,7 +37553,7 @@ case 0:case 1:case 2:return 32}},
 Ot(){var s=this.c
 s.toString
 switch(A.at(s).r.a){case 4:case 3:case 5:return B.y_
-case 0:case 1:case 2:return B.xW}},
+case 0:case 1:case 2:return B.xX}},
 Ak(){var s=this.c
 s.toString
 switch(A.at(s).r.a){case 4:case 3:case 5:return 12
@@ -56481,11 +56481,11 @@ if(s!=null)s.aB(0)
 this.aL()},
 Ig(){this.f=A.afh(B.al,new A.a61(this))},
 I(a){var s,r,q=this,p=null,o=A.ql(15),n=q.a.c[q.d],m=t.D
-n=A.aam(A.kA(A.iG(B.bT,A.a([new A.q1(new A.q_(new A.c4(B.xV,A.aaa(A.ql(15),A.h8(n,B.uZ,p,p)),p),1,B.M,B.au,p,new A.cg(n,t.ft)),B.au,p),A.aew(0,A.le(A.fX(p,p,p,p,p,p,p,p),B.bv,new A.a5Y(q),new A.a5Z(q),p))],m),B.aQ),p,p),5)
+n=A.aam(A.kA(A.iG(B.bT,A.a([new A.q1(new A.q_(new A.c4(B.xW,A.aaa(A.ql(15),A.h8(n,B.uZ,p,p)),p),1,B.M,B.au,p,new A.cg(n,t.ft)),B.au,p),A.aew(0,A.le(A.fX(p,p,p,p,p,p,p,p),B.bv,new A.a5Y(q),new A.a5Z(q),p))],m),B.aQ),p,p),5)
 s=q.a
 s=A.Fk(s.d,A.jX(p,p,p,p,p,p,p,p,p,p,p,s.r,p,p,B.a1,p,p,!0,p,p,p,p,p,p,p,p),p,p)
 r=q.a
-return A.cY(A.le(A.nk(p,new A.c4(B.xX,new A.zc(B.en,4,new A.cr(o,B.m),A.fy(A.a([n,B.Fn,A.aam(new A.c4(B.xS,A.kH(A.a([s,B.cF,A.Fk(r.e,A.jX(p,p,p,p,p,p,p,p,p,p,p,r.w,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],m),B.b9,B.dg),p),5)],m),B.b9,B.ak,B.aa),p),p),B.ag,!1,p,p,p,p,p,p,p,p,p,p,new A.a6_(q),p,p,p,p,p,p),B.cH,p,p,p),450,p)}}
+return A.cY(A.le(A.nk(p,new A.c4(B.xV,new A.zc(B.en,4,new A.cr(o,B.m),A.fy(A.a([n,B.Fn,A.aam(new A.c4(B.xS,A.kH(A.a([s,B.cF,A.Fk(r.e,A.jX(p,p,p,p,p,p,p,p,p,p,p,r.w,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],m),B.b9,B.dg),p),5)],m),B.b9,B.ak,B.aa),p),p),B.ag,!1,p,p,p,p,p,p,p,p,p,p,new A.a6_(q),p,p,p,p,p,p),B.cH,p,p,p),450,p)}}
 A.a61.prototype={
 $1(a){var s=this.a
 s.am(new A.a60(s))},
@@ -56514,7 +56514,7 @@ if(s!=null)s.aB(0)},
 $S:0}
 A.CN.prototype={
 I(a){var s=null,r=t.D
-return A.kH(A.a([A.Fk("Sa colaboram cu Denis ?",A.jX(s,s,s,s,s,s,s,s,s,s,s,this.c,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.jb,A.iG(B.jz,A.a([A.cY(new A.c4(B.xT,new A.Ek(this.d,B.E2,s),s),260,260),new A.yN(s)],r),B.aQ)],r),B.X,B.ak)}}
+return A.kH(A.a([A.Fk("Should we collaborate with Denis ?",A.jX(s,s,s,s,s,s,s,s,s,s,s,this.c,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.jb,A.iG(B.jz,A.a([A.cY(new A.c4(B.xT,new A.Ek(this.d,B.E2,s),s),260,260),new A.yN(s)],r),B.aQ)],r),B.X,B.ak)}}
 A.ob.prototype={
 af(){return new A.Kn(null,null,B.j)}}
 A.Kn.prototype={
@@ -59294,10 +59294,10 @@ B.kN=new A.b0(0,20,0,20)
 B.xT=new A.b0(0,30,0,0)
 B.cV=new A.b0(10,0,10,0)
 B.xU=new A.b0(10,10,10,10)
-B.xV=new A.b0(15,15,15,15)
+B.xV=new A.b0(11,0,11,0)
+B.xW=new A.b0(15,15,15,15)
 B.ev=new A.b0(16,0,16,0)
-B.xW=new A.b0(16,4,16,4)
-B.xX=new A.b0(22,0,0,0)
+B.xX=new A.b0(16,4,16,4)
 B.kO=new A.b0(4,0,4,0)
 B.xZ=new A.b0(4,4,4,4)
 B.kP=new A.b0(8,0,8,0)
@@ -60549,8 +60549,8 @@ B.x3=new A.z(4293880832)
 B.x0=new A.z(4293284096)
 B.CI=new A.bo([50,B.xd,100,B.xc,200,B.xb,300,B.xa,400,B.x9,500,B.x8,600,B.x7,700,B.x4,800,B.x3,900,B.x0],t.bl)
 B.D8=new A.lc(B.CI,4294940672)
-B.E3=new A.oc("nu",B.D8)
-B.E4=new A.oc("da",B.ch)
+B.E3=new A.oc("no",B.D8)
+B.E4=new A.oc("yes",B.ch)
 B.E5=new A.cr(B.O,B.m)
 B.E6=new A.cr(B.e0,B.m)
 B.iS=new A.cr(B.e_,B.m)
